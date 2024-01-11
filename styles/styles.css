@@ -5,3 +5,9 @@
 h1 {
     font-family: 'Faster One'
 }
+
+button {
+    font-family: 'Faster One';
+    font-size: 3rem;
+    background-color: blue;
+}
