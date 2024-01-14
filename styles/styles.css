@@ -11,3 +11,15 @@ button {
     font-size: 3rem;
     background-color: blue;
 }
+
+.screenshots {
+    width: 30%;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.sprites {
+    width: 10%;
+    border-radius: 5px;
+    border: 2px solid black;
+}
