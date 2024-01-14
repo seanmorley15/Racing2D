@@ -11,3 +11,7 @@ button {
     font-size: 3rem;
     background-color: blue;
 }
+
+.centerlist {
+    list-style-position: inside;
+}
