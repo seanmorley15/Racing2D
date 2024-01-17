@@ -4226,6 +4226,7 @@ self.C3_JsPropNameTable = [
 	{Mouse: 0},
 	{finishTimeText: 0},
 	{restartText: 0},
+	{backgroundFinish: 0},
 	{startCount: 0},
 	{maxSpeed: 0},
 	{boostSpeed: 0},
@@ -4259,7 +4260,8 @@ self.InstanceType = {
 	restartButton: class extends self.ISpriteInstance {},
 	Mouse: class extends self.IInstance {},
 	finishTimeText: class extends self.ITextInstance {},
-	restartText: class extends self.ITextInstance {}
+	restartText: class extends self.ITextInstance {},
+	backgroundFinish: class extends self.ISpriteInstance {}
 }
 }
 
